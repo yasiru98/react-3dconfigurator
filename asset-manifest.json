@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/react-3dconfigurator/static/css/main.ac848da9.chunk.css",
-    "main.js": "/react-3dconfigurator/static/js/main.8980a0e0.chunk.js",
-    "main.js.map": "/react-3dconfigurator/static/js/main.8980a0e0.chunk.js.map",
+    "main.js": "/react-3dconfigurator/static/js/main.688dc53e.chunk.js",
+    "main.js.map": "/react-3dconfigurator/static/js/main.688dc53e.chunk.js.map",
     "runtime-main.js": "/react-3dconfigurator/static/js/runtime-main.5011cc2b.js",
     "runtime-main.js.map": "/react-3dconfigurator/static/js/runtime-main.5011cc2b.js.map",
-    "static/js/2.21751204.chunk.js": "/react-3dconfigurator/static/js/2.21751204.chunk.js",
-    "static/js/2.21751204.chunk.js.map": "/react-3dconfigurator/static/js/2.21751204.chunk.js.map",
+    "static/js/2.e9594afd.chunk.js": "/react-3dconfigurator/static/js/2.e9594afd.chunk.js",
+    "static/js/2.e9594afd.chunk.js.map": "/react-3dconfigurator/static/js/2.e9594afd.chunk.js.map",
     "static/js/3.3ed6db68.chunk.js": "/react-3dconfigurator/static/js/3.3ed6db68.chunk.js",
     "static/js/3.3ed6db68.chunk.js.map": "/react-3dconfigurator/static/js/3.3ed6db68.chunk.js.map",
     "index.html": "/react-3dconfigurator/index.html",
     "static/css/main.ac848da9.chunk.css.map": "/react-3dconfigurator/static/css/main.ac848da9.chunk.css.map",
-    "static/js/2.21751204.chunk.js.LICENSE.txt": "/react-3dconfigurator/static/js/2.21751204.chunk.js.LICENSE.txt",
+    "static/js/2.e9594afd.chunk.js.LICENSE.txt": "/react-3dconfigurator/static/js/2.e9594afd.chunk.js.LICENSE.txt",
+    "static/media/Subaru Impreza Free.8b0a430b.glb": "/react-3dconfigurator/static/media/Subaru Impreza Free.8b0a430b.glb",
     "static/media/logo.6ce24c58.svg": "/react-3dconfigurator/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5011cc2b.js",
-    "static/js/2.21751204.chunk.js",
+    "static/js/2.e9594afd.chunk.js",
     "static/css/main.ac848da9.chunk.css",
-    "static/js/main.8980a0e0.chunk.js"
+    "static/js/main.688dc53e.chunk.js"
   ]
 }
