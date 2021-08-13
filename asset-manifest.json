@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-3dconfigurator/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/react-3dconfigurator/static/js/main.748ff495.chunk.js",
-    "main.js.map": "/react-3dconfigurator/static/js/main.748ff495.chunk.js.map",
+    "main.js": "/react-3dconfigurator/static/js/main.dca47ee4.chunk.js",
+    "main.js.map": "/react-3dconfigurator/static/js/main.dca47ee4.chunk.js.map",
     "runtime-main.js": "/react-3dconfigurator/static/js/runtime-main.3194e8d1.js",
     "runtime-main.js.map": "/react-3dconfigurator/static/js/runtime-main.3194e8d1.js.map",
     "static/js/2.fc49a91d.chunk.js": "/react-3dconfigurator/static/js/2.fc49a91d.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.3194e8d1.js",
     "static/js/2.fc49a91d.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.748ff495.chunk.js"
+    "static/js/main.dca47ee4.chunk.js"
   ]
 }
